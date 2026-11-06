@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+handoffs/
+.claude/
+dist/
+app/python/
